@@ -22,7 +22,7 @@ The user should be able to:
 
   * View multiple the combined weight of multiple exercises on the `stats` page.
   
- 
+ Published at : https://bootcamp-sahar-fitness.herokuapp.com/
 
 
 
